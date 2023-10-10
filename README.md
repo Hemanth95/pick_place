@@ -27,6 +27,8 @@ cd src/pick_place
 ### Running the program
 ```bash
 ros2 launch moveit2_tutorials mtc_demo.launch.py
+
+#open another terminal and run
 ros2 launch pick_place pick_place.launch.py
 ```
 ### Acknowledgements
